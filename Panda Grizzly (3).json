@@ -1,0 +1,284 @@
+{
+  "id": "_1k2dvl7qtka",
+  "name": "Panda Grizzly (3)",
+  "traits": "",
+  "tags": [],
+  "level": 3,
+  "specials": [
+    {
+      "name": "Mauler",
+      "actions": "none",
+      "traits": "",
+      "type": "offense",
+      "description": "The grizzly gains a +2 circumstance bonus to damage rolls against creatures it has grabbed.",
+      "src": "Grizzly Bear",
+      "id": "_1do990z6fjo"
+    },
+    {
+      "name": "Rush",
+      "actions": "two",
+      "traits": "",
+      "type": "offense",
+      "description": "The grizzly Strides and makes a Strike at the end of that movement. During the Stride, the grizzly bear gains a +10-foot circumstance bonus to its Speed.",
+      "src": "Grizzly Bear",
+      "id": "_34o8mmywyu"
+    },
+    {
+      "id": "_22oyzdz3c5l",
+      "name": "Ingordigia",
+      "traits": "",
+      "range": "",
+      "actions": "one",
+      "type": "defense",
+      "description": "I Panda Grizzly sono ghiotti di bamboo rivestito di miele. Questo può facilmente distrarre un Panda Grizzly (natura 15). Con una prova riuscita di furtività contro una CD di percezione di 5, il Panda Grizzly viene considerato flat-footed (-2 AC)."
+    }
+  ],
+  "morespells": [],
+  "alignment": "n",
+  "size": "large",
+  "type": "animal",
+  "adjust": 0,
+  "description": "",
+  "items": "",
+  "spellattack": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "spelldc": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "savenote": "",
+  "creature": "creature",
+  "speed": "35 feet",
+  "imgurl": "",
+  "spelltype": "",
+  "focuspoints": 0,
+  "cantriplevel": "",
+  "ritualtype": "",
+  "rituals": "",
+  "spells": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "constant": "",
+  "minprof": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "strength": {
+    "value": 4,
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "dexterity": {
+    "value": 1,
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "constitution": {
+    "value": 5,
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "intelligence": {
+    "value": -4,
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "wisdom": {
+    "value": 1,
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "charisma": {
+    "value": -2,
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "perception": {
+    "value": "10",
+    "benchmark": "high",
+    "note": "low-light vision, scent (imprecise) 30 feet"
+  },
+  "acrobatics": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "arcana": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "athletics": {
+    "value": "11",
+    "benchmark": "high",
+    "note": ""
+  },
+  "crafting": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "deception": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "diplomacy": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "intimidation": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "medicine": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "nature": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "occultism": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "performance": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "religion": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "society": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "stealth": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "survival": {
+    "value": "9",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "thievery": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "lore": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": "",
+    "name": "lore"
+  },
+  "lorealt": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": "",
+    "name": "lore"
+  },
+  "ac": {
+    "value": "16",
+    "benchmark": "low",
+    "note": ""
+  },
+  "hp": {
+    "value": "55",
+    "benchmark": "high",
+    "note": ""
+  },
+  "fortitude": {
+    "value": "10",
+    "benchmark": "high",
+    "note": ""
+  },
+  "reflex": {
+    "value": "5",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "will": {
+    "value": "6",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "resistance": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "weakness": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "immunity": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "roadmap": "",
+  "info": "",
+  "strikes": [
+    {
+      "type": "Melee",
+      "name": "jaws",
+      "attack": "10",
+      "traits": "",
+      "damage": "2d8+4 piercing",
+      "id": "_6hmijsmlyx4"
+    },
+    {
+      "type": "Melee",
+      "name": " claws",
+      "attack": "10",
+      "traits": "agile",
+      "damage": "1d6+4 slashing plus Grab",
+      "id": "_cql4wzv7haw"
+    }
+  ],
+  "hints": [
+    "perception",
+    "strength",
+    "dexterity",
+    "constitution",
+    "intelligence",
+    "wisdom",
+    "charisma",
+    "ac",
+    "fortitude",
+    "reflex",
+    "will",
+    "hp"
+  ],
+  "src": "Monsters47",
+  "time": 1596276710
+}
