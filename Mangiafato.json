@@ -1,0 +1,283 @@
+{
+  "id": "_38hb0e2c2j",
+  "name": "Mangia Fato",
+  "traits": "Demon",
+  "tags": [],
+  "level": 3,
+  "specials": [
+    {
+      "id": "_7e13l16o6k8",
+      "name": "Vulnerabilità alla fortuna",
+      "traits": "",
+      "range": "",
+      "actions": "none",
+      "type": "defense",
+      "description": "Quando un giocatore ottiene un successo critico il Mangiafato subisce 2d6 danni mentali."
+    },
+    {
+      "id": "_1rqz9ahyg7n",
+      "name": "Sfidare le probabilità",
+      "traits": "",
+      "range": "",
+      "actions": "none",
+      "type": "defense",
+      "description": "Quando un giocatore spende un punto eroe il Mangiafato subisce 4d6 danni mentali."
+    },
+    {
+      "id": "_1dm9x6pqnrb",
+      "name": "Aura di sfortuna ",
+      "traits": "",
+      "range": "",
+      "actions": "none",
+      "type": "general",
+      "description": "Volontà DC 18 ogni  rouund. Fallimento svantaggio, fallimento critico no TS, successo critico immune."
+    },
+    {
+      "id": "_18hz7bigmbz",
+      "name": "Osmosi di foruna ",
+      "traits": "",
+      "range": "",
+      "actions": "reaction",
+      "type": "offense",
+      "description": "Ruba il maggiore del d20 con svantaggio."
+    }
+  ],
+  "morespells": [],
+  "alignment": "ce",
+  "size": "medium",
+  "type": "fey",
+  "adjust": 0,
+  "description": " Origine fatata. Fortune Eater di livello inferiore.",
+  "items": "",
+  "spellattack": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "spelldc": {
+    "value": "18",
+    "benchmark": "high",
+    "note": ""
+  },
+  "savenote": "",
+  "creature": "",
+  "speed": "",
+  "imgurl": "",
+  "spelltype": "",
+  "focuspoints": 0,
+  "cantriplevel": "",
+  "ritualtype": "",
+  "rituals": "",
+  "spells": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "Tocco di idiozia (fallimento stupido 2)",
+    "",
+    ""
+  ],
+  "constant": "",
+  "minprof": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "strength": {
+    "value": "+3",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "dexterity": {
+    "value": "+3",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "constitution": {
+    "value": "+3",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "intelligence": {
+    "value": "+3",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "wisdom": {
+    "value": "+3",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "charisma": {
+    "value": "+3",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "perception": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "acrobatics": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "arcana": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "athletics": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "crafting": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "deception": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "diplomacy": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "intimidation": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "medicine": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "nature": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "occultism": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "performance": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "religion": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "society": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "stealth": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "survival": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "thievery": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "lore": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": "",
+    "name": "lore"
+  },
+  "lorealt": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": "",
+    "name": "lore"
+  },
+  "ac": {
+    "value": 19,
+    "benchmark": "high",
+    "note": ""
+  },
+  "hp": {
+    "value": "60",
+    "benchmark": "high",
+    "note": ""
+  },
+  "fortitude": {
+    "value": "+9",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "reflex": {
+    "value": "+9",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "will": {
+    "value": "+12",
+    "benchmark": "high",
+    "note": ""
+  },
+  "resistance": {
+    "value": "Cold iron 4, Good 4 ",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "weakness": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "immunity": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "roadmap": "",
+  "info": "",
+  "strikes": [
+    {
+      "id": "_1rqbeiexxa4",
+      "name": "Strike",
+      "traits": "",
+      "attack": "+10",
+      "damage": "1d6+5 + 1d6 negativi ",
+      "type": "Melee"
+    }
+  ],
+  "hints": [
+    "perception",
+    "strength",
+    "dexterity",
+    "constitution",
+    "intelligence",
+    "wisdom",
+    "charisma",
+    "ac",
+    "fortitude",
+    "reflex",
+    "will",
+    "hp"
+  ]
+}
