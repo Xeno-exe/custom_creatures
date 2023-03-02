@@ -34,7 +34,7 @@
     },
     {
       "id": "_18hz7bigmbz",
-      "name": "Osmosi di foruna ",
+      "name": "Osmosi di fortuna ",
       "traits": "",
       "range": "",
       "actions": "reaction",
@@ -262,7 +262,7 @@
       "name": "Strike",
       "traits": "",
       "attack": "+10",
-      "damage": "1d6+5 + 1d6 negativi ",
+      "damage": "1d6+5 plus 1d6 negative",
       "type": "Melee"
     }
   ],
