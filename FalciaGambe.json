@@ -1,0 +1,256 @@
+{
+  "id": "_6uay7x2vfdo",
+  "name": "FalciaGambe ",
+  "traits": "aberration",
+  "tags": [],
+  "level": 2,
+  "specials": [
+    {
+      "id": "_288e68wl5xg",
+      "name": "Dismember",
+      "traits": "",
+      "range": "",
+      "actions": "one",
+      "type": "offense",
+      "description": "Quando colpisci con la falce puoi infliggere Maldestro 1 (o +1) e ridurre il movimento di 1 q. CD Tempra 20."
+    }
+  ],
+  "morespells": [],
+  "alignment": "n",
+  "size": "medium",
+  "type": "humanoid",
+  "adjust": 0,
+  "description": "",
+  "items": "",
+  "spellattack": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "spelldc": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "savenote": "",
+  "creature": "",
+  "speed": "35 feet (7 q) ",
+  "imgurl": "",
+  "spelltype": "",
+  "focuspoints": 0,
+  "cantriplevel": "",
+  "ritualtype": "",
+  "rituals": "",
+  "spells": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "constant": "",
+  "minprof": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "strength": {
+    "value": "+3",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "dexterity": {
+    "value": "+3",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "constitution": {
+    "value": "+2",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "intelligence": {
+    "value": 1,
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "wisdom": {
+    "value": 0,
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "charisma": {
+    "value": -1,
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "perception": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "acrobatics": {
+    "value": "+10",
+    "benchmark": "high",
+    "note": ""
+  },
+  "arcana": {
+    "value": "",
+    "benchmark": "high",
+    "note": ""
+  },
+  "athletics": {
+    "value": "+10",
+    "benchmark": "high",
+    "note": ""
+  },
+  "crafting": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "deception": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "diplomacy": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "intimidation": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "medicine": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "nature": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "occultism": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "performance": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "religion": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "society": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "stealth": {
+    "value": "+10",
+    "benchmark": "high",
+    "note": ""
+  },
+  "survival": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "thievery": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "lore": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": "",
+    "name": "lore"
+  },
+  "lorealt": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": "",
+    "name": "lore"
+  },
+  "ac": {
+    "value": "19",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "hp": {
+    "value": "40",
+    "benchmark": "high",
+    "note": ""
+  },
+  "fortitude": {
+    "value": "+9",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "reflex": {
+    "value": "+12",
+    "benchmark": "high",
+    "note": ""
+  },
+  "will": {
+    "value": "+7",
+    "benchmark": "low",
+    "note": ""
+  },
+  "resistance": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "weakness": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "immunity": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "roadmap": "",
+  "info": "",
+  "strikes": [
+    {
+      "id": "_2o6asc306n0",
+      "name": "Falce",
+      "traits": "deadly d10, trip",
+      "attack": "+11",
+      "damage": "1d8+2 slashing, plus Dismember",
+      "type": "Melee"
+    }
+  ],
+  "hints": [
+    "perception",
+    "strength",
+    "dexterity",
+    "constitution",
+    "intelligence",
+    "wisdom",
+    "charisma",
+    "ac",
+    "fortitude",
+    "reflex",
+    "will",
+    "hp"
+  ]
+}
